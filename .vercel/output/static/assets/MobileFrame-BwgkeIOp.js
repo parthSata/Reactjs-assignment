@@ -1,0 +1,1 @@
+import{j as s}from"./index-9VfO0PoW.js";function r({children:e,title:a}){return s.jsx("div",{className:"mf-page",children:s.jsxs("div",{className:"mf-frame",children:[a&&s.jsx("div",{className:`mf-topbar${a?" mf-topbar--titled":""}`,children:s.jsx("span",{className:"mf-topbar-title",children:a})}),s.jsx("div",{className:"mf-body",children:e})]})})}export{r as M};
